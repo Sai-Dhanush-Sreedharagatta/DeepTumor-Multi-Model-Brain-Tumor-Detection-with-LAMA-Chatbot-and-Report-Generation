@@ -1,6 +1,8 @@
 # NeuroScan: Brain Tumor Detection and AI-Powered Medical Chatbot
 
-This project is an end-to-end solution for detecting brain tumors from X-ray images using advanced deep learning models like **VGG16, VGG19, and DenseNet**...
+This project is an end-to-end solution for detecting brain tumors from X-ray images using advanced deep learning models like **VGG16, VGG19, and DenseNet.** It also features an interactive AI-powered chatbot built with the **LAMA model** to answer medical queries related to brain tumors. After detection, the system generates a detailed diagnostic report for the user.
+
+The project is deployed as a **web application** where users can upload brain X-ray images, receive tumor detection results, and interact with the chatbot for additional information. The integration of deep learning models and natural language processing (NLP) makes this a comprehensive tool for medical diagnostics and patient support.
 
 ## Key Features
 - **Brain Tumor Detection**: Utilizes VGG16, VGG19, and DenseNet models...
